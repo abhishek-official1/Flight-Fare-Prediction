@@ -1,5 +1,5 @@
 appdirs==1.4.4
-certifi==2024.6.20
+certifi==2024.08.30
 click==8.1.7
 distlib==0.3.7
 Flask==3.0.3
