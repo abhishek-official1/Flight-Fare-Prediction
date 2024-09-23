@@ -5,7 +5,7 @@ This project uses machine learning techniques to predict flight fares based on v
 ## Features
 - **Data Preprocessing:** Handling missing values, encoding categorical data, and feature scaling.
 - **Exploratory Data Analysis:** Understanding relationships between features like airline, date, and price.
-- **Model Training:** Training models like Linear Regression, Random Forest, or XGBoost to predict flight fares.
+- **Model Training:** Training models Random Forest to predict flight fares.
 - **Model Evaluation:** Assessing model performance using metrics like RMSE and R² score.
 
 ## Results
