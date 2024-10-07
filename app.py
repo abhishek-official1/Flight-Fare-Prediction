@@ -7,7 +7,8 @@ model = pickle.load(open("flight_rf.pkl", "rb"))
 
 # Streamlit App
 def main():
-    st.title("Flight Price Prediction")
+    st.title("Python Project: Flight Fare Prediction")
+    
 
     # Input fields
     st.header("Enter flight details")
